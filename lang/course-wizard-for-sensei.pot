@@ -1,0 +1,292 @@
+# Copyright (C) 2014 Course Wizard For Sensei
+# This file is distributed under the same license as the Course Wizard For Sensei package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Course Wizard For Sensei 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/WordPress-Plugin-Template\n"
+"POT-Creation-Date: 2018-09-17 11:25+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Open-DSI <dev@open-dsi.fr>\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_x;esc_html_e;esc_attr_e;_e;esc_html__;esc_attr__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+"X-Poedit-SearchPathExcluded-1: includes/lib\n"
+"X-Poedit-SearchPathExcluded-2: includes/class-course-wizard-for-sensei-"
+"settings.php\n"
+
+#: includes/class-course-wizard-for-sensei-controller.php:111
+msgid "Course Wizard for Sensei"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-controller.php:114
+msgid "Please activate the Sensei plugin first and then reactivate the plugin."
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-duplicate.php:102
+msgid "(Duplicate)"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-form.php:29
+#, php-format
+msgid "Enter a title for this %s here"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-form.php:53
+msgid "Slug"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-form.php:56
+msgid ""
+"The &#8220;slug&#8221; is the URL-friendly version of the name. It is "
+"usually all lowercase and contains only letters, numbers, and hyphens."
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-form.php:80
+msgid "Description"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-form.php:82
+msgid ""
+"The description is not prominent by default; however, some themes may show "
+"it."
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-form.php:139
+#: includes/class-course-wizard-for-sensei-screen-lesson.php:853
+#: includes/class-course-wizard-for-sensei-screen-question.php:849
+#, php-format
+msgid "Select an existing %s"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-form.php:261
+#: includes/class-course-wizard-for-sensei-form.php:641
+msgid "Previous"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-form.php:315
+msgid "Next"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-form.php:329
+msgid "Add"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-form.php:370
+msgid "Add New"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-form.php:597
+msgid "Remove"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-form.php:637
+msgid "Start again?"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-form.php:645
+#, php-format
+msgid "%s not found."
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-form.php:676
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-form.php:681
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-form.php:686
+#, php-format
+msgid "Duplicate %s"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-form.php:690
+#, php-format
+msgid "Save %s"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-form.php:694
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-form.php:714
+#, php-format
+msgid "Action error: %s"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-page.php:65
+#, php-format
+msgid "%s Wizard"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-page.php:65
+#: includes/class-course-wizard-for-sensei-screen-course.php:170
+#: includes/class-course-wizard-for-sensei-screen-course.php:196
+#: includes/class-course-wizard-for-sensei-screen-course.php:307
+#: includes/class-course-wizard-for-sensei-screen-course.php:324
+#: includes/class-course-wizard-for-sensei-screen-course.php:330
+#: includes/class-course-wizard-for-sensei-screen-course.php:359
+#: includes/class-course-wizard-for-sensei-screen-course.php:469
+#: includes/class-course-wizard-for-sensei-screen-course.php:491
+#: includes/class-course-wizard-for-sensei-screen-module.php:641
+#: includes/class-course-wizard-for-sensei-screen-module.php:716
+msgid "Course"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-page.php:224
+msgid "Close"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-page.php:231
+msgid "Preview"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-screen-course.php:321
+#: includes/class-course-wizard-for-sensei-screen-course.php:431
+msgid "Duplicate"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-screen-course.php:336
+msgid "Duplicate lessons"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-screen-course.php:337
+msgid "Duplicate this course with its lessons"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-screen-course.php:396
+#: includes/class-course-wizard-for-sensei-screen-module.php:606
+msgid "Courses"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-screen-course.php:440
+#: includes/class-course-wizard-for-sensei-screen-lesson.php:791
+#: includes/class-course-wizard-for-sensei-screen-module.php:617
+#: includes/class-course-wizard-for-sensei-screen-module.php:756
+#: includes/class-course-wizard-for-sensei-screen-question.php:813
+msgid "Edit"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-screen-lesson.php:310
+#: includes/class-course-wizard-for-sensei-screen-lesson.php:395
+#: includes/class-course-wizard-for-sensei-screen-lesson.php:423
+#: includes/class-course-wizard-for-sensei-screen-lesson.php:578
+#: includes/class-course-wizard-for-sensei-screen-lesson.php:584
+#: includes/class-course-wizard-for-sensei-screen-lesson.php:601
+#: includes/class-course-wizard-for-sensei-screen-lesson.php:711
+#: includes/class-course-wizard-for-sensei-screen-lesson.php:853
+#: includes/class-course-wizard-for-sensei-screen-question.php:616
+#: includes/class-course-wizard-for-sensei-screen-question.php:656
+msgid "Lesson"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-screen-lesson.php:636
+#: includes/class-course-wizard-for-sensei-screen-lesson.php:728
+#: includes/class-course-wizard-for-sensei-screen-module.php:275
+#: includes/class-course-wizard-for-sensei-screen-module.php:313
+#: includes/class-course-wizard-for-sensei-screen-module.php:541
+#: includes/class-course-wizard-for-sensei-screen-module.php:547
+#: includes/class-course-wizard-for-sensei-screen-module.php:565
+#: includes/class-course-wizard-for-sensei-screen-module.php:700
+msgid "Module"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-screen-lesson.php:649
+#: includes/class-course-wizard-for-sensei-screen-module.php:665
+msgid "Modules"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-screen-lesson.php:671
+#: includes/class-course-wizard-for-sensei-screen-module.php:755
+#: includes/class-course-wizard-for-sensei-screen-question.php:639
+msgid "Lessons"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-screen-lesson.php:775
+msgid "Order Lessons"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-screen-lesson.php:790
+#: includes/class-course-wizard-for-sensei-screen-question.php:715
+msgid "Questions"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-screen-lesson.php:801
+msgid "Save lesson order"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-screen-lesson.php:823
+msgid "Quiz"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-screen-module.php:740
+msgid "Order Modules"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-screen-module.php:765
+msgid "Save module order"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-screen-module.php:792
+msgid "(empty)"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-screen-question.php:250
+#: includes/class-course-wizard-for-sensei-screen-question.php:278
+#: includes/class-course-wizard-for-sensei-screen-question.php:435
+#: includes/class-course-wizard-for-sensei-screen-question.php:441
+#: includes/class-course-wizard-for-sensei-screen-question.php:533
+#: includes/class-course-wizard-for-sensei-screen-question.php:566
+#: includes/class-course-wizard-for-sensei-screen-question.php:756
+#: includes/class-course-wizard-for-sensei-screen-question.php:849
+msgid "Question"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-screen-question.php:475
+msgid "Question Type:"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-screen-question.php:515
+msgid "Question Grade:"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-screen-question.php:631
+#: includes/class-course-wizard-for-sensei-screen-question.php:690
+msgid "Quiz Settings"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-screen-question.php:797
+msgid "Order Questions"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei-screen-question.php:824
+msgid "Save question order"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei.php:245
+msgid ""
+"This lesson will be removed from the current module. Do you also want to "
+"delete it?"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei.php:246
+msgid ""
+"This module and its lessons will be removed. Do you also want to delete them?"
+msgstr ""
+
+#: includes/class-course-wizard-for-sensei.php:310
+#: includes/class-course-wizard-for-sensei.php:319
+msgid "Cheatin&#8217; huh?"
+msgstr ""
